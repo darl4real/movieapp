@@ -1,0 +1,20 @@
+{
+  "name": "clase7",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Xavi <xavi@geekshubs.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
