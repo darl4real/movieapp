@@ -1,2 +1,2 @@
 # movieapp
-Online movie rental app
+Online movie rental appdesigned with Angular for movie rentals. 
